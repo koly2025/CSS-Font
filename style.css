@@ -1,0 +1,129 @@
+/* Font Family */
+.font-serif {
+    font-family: "Times New Roman", serif;
+}
+
+.font-sans-serif {
+    font-family: Arial, sans-serif;
+}
+
+.font-monospace {
+    font-family: "Courier New", monospace;
+}
+
+/* Font Size */
+.font-small {
+    font-size: 12px;
+}
+
+.font-medium {
+    font-size: 18px;
+}
+
+.font-large {
+    font-size: 24px;
+}
+
+/* Font Weight */
+.font-light {
+    font-weight: 300;
+}
+
+.font-normal {
+    font-weight: 400;
+}
+
+.font-bold {
+    font-weight: 700;
+}
+
+/* Font Style */
+.font-italic {
+    font-style: italic;
+}
+
+.font-oblique {
+    font-style: oblique;
+}
+
+/* Text Alignment */
+.text-left {
+    text-align: left;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+/* Text Decoration */
+.text-underline {
+    text-decoration: underline;
+}
+
+.text-line-through {
+    text-decoration: line-through;
+}
+
+.text-overline {
+    text-decoration: overline;
+}
+
+.text-none {
+    text-decoration: none;
+}
+
+/* Text Transform */
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.text-lowercase {
+    text-transform: lowercase;
+}
+
+.text-capitalize {
+    text-transform: capitalize;
+}
+
+/* Line Height */
+.line-height-small {
+    line-height: 1;
+}
+
+.line-height-medium {
+    line-height: 1.5;
+}
+
+.line-height-large {
+    line-height: 2;
+}
+
+/* Letter Spacing */
+.letter-spacing-small {
+    letter-spacing: 1px;
+}
+
+.letter-spacing-medium {
+    letter-spacing: 3px;
+}
+
+.letter-spacing-large {
+    letter-spacing: 5px;
+}
+
+/* Word Spacing */
+.word-spacing-small {
+    word-spacing: 2px;
+}
+
+.word-spacing-medium {
+    word-spacing: 5px;
+}
+
+.word-spacing-large {
+    word-spacing: 10px;
+}
